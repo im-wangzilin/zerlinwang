@@ -1,5 +1,5 @@
 ﻿### Hi, I'm Zilin Wang 👋 
-[![Personal Page](https://img.shields.io/badge/-personal%20page-important?style=plastic&logo=MEGA)](https://zerlinwang.github.io)
+[![website](https://img.shields.io/badge/-personal%20page-important?style=plastic&logo=MEGA)](https://zerlinwang.github.io)
 [![blog](https://img.shields.io/badge/-blog-green?style=plastic&logo=zhihu)](https://www.zhihu.com/people/yue-lin-lin-36)
 - 🎓 I’m a master student from [Tsinghua University](https://www.tsinghua.edu.cn/), advised by Prof. [Zhiyong Wu](https://www.sigs.tsinghua.edu.cn/zywu/main.htm).
 - 📚 Working on Deep Learning and Speech Processing recently.
